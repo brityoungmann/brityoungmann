@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.cs.tau.ac.il/~brity/</loc>
+  <lastmod>2019-03-24T09:41:27+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.cs.tau.ac.il/~brity/docs/main-semsim.pdf</loc>
+  <lastmod>2019-03-18T07:25:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cs.tau.ac.il/~brity/docs/main-simmeme.pdf</loc>
+  <lastmod>2019-03-18T07:25:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cs.tau.ac.il/~brity/docs/parkinson.pdf</loc>
+  <lastmod>2019-03-18T07:25:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cs.tau.ac.il/~brity/docs/imfair_demo.pdf</loc>
+  <lastmod>2019-03-18T07:25:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cs.tau.ac.il/~brity/docs/p753-youngmann.pdf</loc>
+  <lastmod>2019-03-18T07:25:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cs.tau.ac.il/~brity/docs/simmeme_demo.pdf</loc>
+  <lastmod>2019-03-18T07:25:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cs.tau.ac.il/~brity/docs/p1485-amsterdamer.pdf</loc>
+  <lastmod>2019-03-18T07:25:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cs.tau.ac.il/~brity/google2fa8ca5f6f00d067.html</loc>
+  <lastmod>2019-03-24T09:41:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
