@@ -91,7 +91,7 @@
                <p>Blavatnik School of Computer Science</p>
                <p>Schreiber Building, Databases Lab, room 314</p>
                <p>Tel. (+972) 03-640-5396</p>
-               <p>brity@mail.tau.ac.il</p>
+               <p>brityoungmann@gmail.com</p>
             </div>
 
             <!--<div class="hero-image">-->
@@ -141,7 +141,7 @@
          <ul>
 		  <li><b>Multi-Objective Influence Maximization</b><br>
                	Shay Gershtein, Tova Milo, Brit Youngmann,
-               <i>accepted to EDBT 2021 </i><a href="docs/IM_EDBT2021.pdf">[PDF]</a>
+               <i>EDBT 2021 </i><a href="docs/IM_EDBT2021.pdf">[PDF]</a>
             </li>
 		 <li><b>CONCIERGE: Improving Constrained Search Results by Data Melioration (demo)</b><br>
                	Ido Guy, Tova Milo, Slava Novgorodov, Brit Youngmann,
