@@ -109,6 +109,7 @@
    <section id='about'>
 
       <div class="row feature design">
+	      
 
          <div class="six columns feature-media right">
             <img src="images/brit.jpg" alt="" />
