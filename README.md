@@ -142,6 +142,10 @@
          <h1>List of publications</h1>
          <p>See also <a href="https://dblp.org/pers/hd/y/Youngmann:Brit">DBLP</a></p>
          <ul>
+		 <li><b>On Detecting Cherry-picked Generalizations</b><br>
+           	Yin Lin, Brit Youngmann, Yuval Moskovitch, H. V. Jagadish, Tova Milo,
+           <i>PVLDB 2021 </i><a href="http://www.vldb.org/pvldb/vol15/p59-lin.pdf">[PDF]</a>
+        </li>
 		 
 		  <li><b>Algorithmic copywriting: automated generation of health-related advertisements to improve their performance</b><br>
                	Brit Youngmann, Elad Yom-Tov, Ran Gilad-Bachrach, Danny Karmon,
