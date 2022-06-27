@@ -142,6 +142,11 @@
          <h1>List of publications</h1>
          <p>See also <a href="https://dblp.org/pers/hd/y/Youngmann:Brit">DBLP</a></p>
          <ul>
+	  <li><b>Intimate Partner Violence as Reflected in Internet Search Data</b><br>
+           	 Brit Youngmann, Elad Yom-Tov
+           <i>Social Science Computer Review 2021 </i>
+        </li>
+	 
 		 <li><b>On Detecting Cherry-picked Generalizations</b><br>
            	Yin Lin, Brit Youngmann, Yuval Moskovitch, H. V. Jagadish, Tova Milo,
            <i>PVLDB 2021 </i><a href="http://www.vldb.org/pvldb/vol15/p59-lin.pdf">[PDF]</a>
