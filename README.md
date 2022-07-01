@@ -142,9 +142,14 @@
          <h1>List of publications</h1>
          <p>See also <a href="https://dblp.org/pers/hd/y/Youngmann:Brit">DBLP</a></p>
          <ul>
+	  <li><b>Guided Exploration of Data Summaries</b><br>
+           	B Youngmann, S Amer-Yahia, A Personnaz,
+           <i>PVLDB 2022 </i><a href="https://arxiv.org/abs/2205.13956">[PDF]</a>
+        </li>
+	 
 	  <li><b>Intimate Partner Violence as Reflected in Internet Search Data</b><br>
            	 Brit Youngmann, Elad Yom-Tov
-           <i>Social Science Computer Review 2021 </i>
+           <i>Social Science Computer Review 2022 </i>
         </li>
 	 
 		 <li><b>On Detecting Cherry-picked Generalizations</b><br>
