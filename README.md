@@ -142,6 +142,12 @@
          <h1>List of publications</h1>
          <p>See also <a href="https://dblp.org/pers/hd/y/Youngmann:Brit">DBLP</a></p>
          <ul>
+	  </li>
+		 <li><b>EDA4SUM: Guided Exploration of Data Summaries (demo)</b><br>
+               	B Youngmann, S Amer-Yahia, A Personnaz,
+               <i>PVLDB 2022 </i><a href="docs/EDA4SUM_Demo_vldb.pdf">[PDF]</a>
+            </li>
+	 
 	  <li><b>Guided Exploration of Data Summaries</b><br>
            	B Youngmann, S Amer-Yahia, A Personnaz,
            <i>PVLDB 2022 </i><a href="https://arxiv.org/abs/2205.13956">[PDF]</a>
