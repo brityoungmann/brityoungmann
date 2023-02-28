@@ -119,7 +119,9 @@
             <h3>About me</h3>
 			
 			<p>I am a postdoc researcher in the <a href= "http://dsg.csail.mit.edu/"> MIT Data Systems Group</a> working with
-			<a href ="https://web.eecs.umich.edu/~michjc/"> Prof. Michael Cafarella.</a> My interests are in improving automate data analysis and science.</p>
+			<a href ="https://web.eecs.umich.edu/~michjc/"> Prof. Michael Cafarella.</a> I am developing automatized data tools to
+facilitate data analysis performed by scientists to accelerate scientific discoveries. My research draws on ideas from data management and
+causal reasoning, making them practical for goal-oriented scientists working with real-life datasets. </p>
 
             <p>I obtained my PhD in Computer Science from <a href="http://www.tau.ac.il/"> Tel Aviv University</a> under the supervision of <a href="http://www.cs.tau.ac.il/~milo/">Prof. Tova Milo.</a></p>
             <p>I have completed my B.Sc. studies in Computer Science at <a href="http://in.bgu.ac.il/Pages/default.aspx">Ben Gurion University</a>, and my M.Sc. in Computer Science at Tel-Aviv University.</p>
@@ -155,7 +157,7 @@
 	 
 	  <li><b>Intimate Partner Violence as Reflected in Internet Search Data</b><br>
            	 Brit Youngmann, Elad Yom-Tov
-           <i>Social Science Computer Review 2022 </i>
+           <i>Social Science Computer Review 2022 </i> <a href="https://journals.sagepub.com/doi/full/10.1177/08944393221084074?casa_token=d3bBfqt6qKQAAAAA%3ASXc_gKmrvXufbgwLcuK1sgmAThyQw_ytDMUCzrWOLdAC6nKzmKAvXUmHQxkk3DNkgc6by6ScEOo">[PDF]</a>
         </li>
 	 
 		 <li><b>On Detecting Cherry-picked Generalizations</b><br>
